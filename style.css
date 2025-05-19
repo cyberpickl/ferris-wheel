@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(120deg, #a490ff 0%, #e291fd 100%);
+    text-align: center;
+    padding: 50px;
+}
+
+button {
+    margin-left: 10px;
+    padding: 12px 25px;
+    background: linear-gradient(45deg, #6a5acd, #ff1493);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 8px 20px rgba(255, 20, 147, 0.4);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    position: relative;
+    overflow: hidden;
+}
